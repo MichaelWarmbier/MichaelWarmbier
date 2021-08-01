@@ -41,7 +41,7 @@
 ---
 
 <img align="left" alt="Kirbout's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelWarmbier&show_icons=true&locale=en&layout=compact&theme=react"/>
-<img align="center" alt="Kirbout's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michaelwarmbier&show_icons=true&locale=en&theme=react"/>
+<img align="right" alt="Kirbout's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michaelwarmbier&show_icons=true&locale=en&theme=react"/>
 
 [website]: http://michaelwarmbier.com
 [twitter]: https://twitter.com/MichaelWarmbier
