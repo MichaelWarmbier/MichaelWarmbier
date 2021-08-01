@@ -1,46 +1,53 @@
-### About me
+## I'm Michael / Kirbout
+### A compsci and mathematics student and hobbyist.
 
-Hi, I'm Michael, or my alias, Kirbout.
+✔️ I'm currently working on a variety of projects </br>
+✔️ I'm current learning about web dev related concepts </br>
+✔️ I'm interest in collaborating with other content creators </br>
+✔️ Looking for opportunities to make websites for people interested </br>
+✔️ Always looking for new experience </br>
 
-## I'm current a compsci and mathematics students and hobbyist.
+</br>
 
-- I'm currently working on a variety of projects
-- I'm current learning about web dev related concepts
-- I'm interest in collaborating with other content creators
-- Looking for opportunities to make websites for people interested
-- Always looking for new experience
+### Connect
 
-## Connect:
+[<img align="left" alt="My Website" width="40px" src="icons/internet.png"/>][website]
+[<img align="left" alt="Michael Warmbier on Twitter" width="40px" src="icons/twitter.png"/>][twitter]
+[<img align="left" alt="Michael Warmbier on YouTube" width="40px" src="icons/youtube.png"/>][youtube]
+[<img align="left" alt="Kirbout on Repl.it" width="40px" src="icons/repl.png"/>][myRepl]
+
+</br></br>
+
+### Languages I use
+
+<img align="left" alt="C++ and C languages" width="40px" src="icons/C++.png"/>
+<img align="left" alt="JavaScript" width="40px" src="icons/javascript.png"/>
+<img align="left" alt="HTML5" width="40px" src="icons/html.png"/>
+<img align="left" alt="HCSS3" width="40px" src="icons/css.png"/>
+<img align="left" alt="Python" width="40px" src="icons/python.png"/>
+<img align="left" alt="Game Maker Language" width="40px" src="icons/gamemaker.png"/>
+
+</br></br>
+
+### Tool I Use
+
+[<img align="left" alt="GitHub" width="40px" src="icons/github.png"/>][github]
+[<img align="left" alt="Repl.it" width="40px" src="icons/repl.png"/>][repl]
+[<img align="left" alt="Atom" width="40px" src="icons/atom.png"/>][atom]
+[<img align="left" alt="Visual Studio" width="40px" src="icons/visual-studio.png"/>][visualstudio]
+[<img align="left" alt="Game Maker Studio 2" width="40px" src="icons/gamemaker.png"/>][gamemaker]
 
 
-[<img align="left" alt="My Website" width="22px" src="https://imgur.com/2sJmOuB"/>][website]
-[<img align="left" alt="Michael Warmbier on Twitter" width="22px" src="https://imgur.com/DPgFhb0"/>][twitter]
-[<img align="left" alt="Michael Warmbier on YouTube" width="22px" src="https://imgur.com/6wCAANS"/>][youtube]
-[<img align="left" alt="Kirbout on Repl.it" width="22px" src="https://imgur.com/bBc8le2"/>][repl]
-
-Email: business@michaelwarmbier.com
-
-## Languages I use
-
-[<img align="left" alt="C++ and C languages" width="22px" src="https://imgur.com/pUR9Pun"/>]
-[<img align="left" alt="JavaScript" width="22px" src="https://imgur.com/j4LaN3V"/>]
-[<img align="left" alt="HTML5" width="22px" src="https://imgur.com/FEwvciO"/>]
-[<img align="left" alt="HCSS3" width="22px" src="https://imgur.com/YQ55oDm"/>]
-[<img align="left" alt="Python" width="22px" src="https://imgur.com/gqA6NMn"/>]
-[<img align="left" alt="Game Maker Language" width="22px" src="https://imgur.com/aQduxGO"/>]
-
-## Tool I Use
-
-<!--
-[<img align="left" alt="GitHub" width="22px" src="https://imgur.com/LfXMTnk"/>][https://github.com/]
-[<img align="left" alt="Repl.it" width="22px" src="https://imgur.com/bBc8le2"/>][https://replit.com/]
-[<img align="left" alt="Atom" width="22px" src="https://imgur.com/boLITSS"/>][https://atom.io/]
-[<img align="left" alt="Visual Studio" width="22px" src="https://imgur.com/9AEbgGb"/>][https://code.visualstudio.com/]
-[<img align="left" alt="Game Maker Studio 2" width="22px" src="https://imgur.com/aQduxGO"/>][https://www.yoyogames.com/en/gamemaker]
--->
 
 [website]: http://michaelwarmbier.com
 [twitter]: https://twitter.com/MichaelWarmbier
 [youtube]: https://www.youtube.com/channel/UC1HP88o4kwLze82F2KDPoVw
-[repl]: https://replit.com/@Kirbout
+[myRepl]: https://replit.com/@Kirbout
+
+[github]: https://github.com/
+[repl]: ttps://replit.com/
+[atom]: https://atom.io/
+[visualstudio]: https://code.visualstudio.com/
+[gamemaker]: https://www.yoyogames.com/en/gamemaker
+
 
