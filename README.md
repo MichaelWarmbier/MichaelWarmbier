@@ -2,11 +2,11 @@
 
 ### A Computer Science and Mathematics B.S. Candidate
 
-✔️ I'm currently working on a variety of projects </br>
-✔️ I'm current learning about web dev related concepts </br>
-✔️ I'm interest in collaborating with other content creators </br>
-✔️ Looking for opportunities to make websites for people interested </br>
-✔️ Always looking for new experience </br>
+✔️ Currently working on a variety of projects </br>
+✔️ Currently studying web dev related concepts </br>
+✔️ Interested in collaborating with other content creators </br>
+✔️ Looking for opportunities to make websites for those looking </br>
+✔️ Always looking for new experiences </br>
 
 ### Connect with me:
 
