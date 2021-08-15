@@ -33,6 +33,7 @@
 [<img align="left" alt="GitHub" width="30px" src="icons/github.png"/>][github]
 [<img align="left" alt="Repl.it" width="30px" src="icons/repl.png"/>][repl]
 [<img align="left" alt="Atom" width="30px" src="icons/atom.png"/>][atom]
+[<img align="left" alt="Node" width="30px" src="icons/node.png"/>][node]
 [<img align="left" alt="Visual Studio" width="30px" src="icons/visual-studio.png"/>][visualstudio]
 [<img align="left" alt="Game Maker Studio 2" width="30px" src="icons/gamemaker.png"/>][gamemaker]
 
@@ -51,6 +52,7 @@
 [github]: https://github.com/
 [repl]: ttps://replit.com/
 [atom]: https://atom.io/
+[node]: https://nodejs.org/en/
 [visualstudio]: https://code.visualstudio.com/
 [gamemaker]: https://www.yoyogames.com/en/gamemaker
 
