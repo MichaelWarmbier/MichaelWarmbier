@@ -11,7 +11,6 @@
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="30px" src="icons/internet.png"/>][website]
-[<img align="left" alt="Michael Warmbier on Twitter" width="30px" src="icons/twitter.png"/>][twitter]
 [<img align="left" alt="Michael Warmbier on YouTube" width="30px" src="icons/youtube.png"/>][youtube]
 [<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/repl.png"/>][myRepl]
 
