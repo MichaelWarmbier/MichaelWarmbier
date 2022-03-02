@@ -1,17 +1,17 @@
-## I'm Michael / Kirbout
+## I'm Michael
 
 ### A Computer Science and Mathematics B.S. Candidate
 
-✔️ Currently working on a variety of projects </br>
-✔️ Currently studying web dev related concepts </br>
-✔️ Interested in collaborating with other content creators </br>
-✔️ Looking for opportunities to make websites for those looking </br>
-✔️ Always looking for new experiences </br>
+✔️ Actively working on a variety of projects </br>
+✔️ Studyin web-dev, software engineering and game design concepts </br>
+✔️ Interested in collaborating with other programmer and contact creators </br>
+✔️ Available for commissions </br>
+✔️ ACtively searching for new experiences and opportunities </br>
 
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="30px" src="icons/internet.png"/>][website]
-[<img align="left" alt="Michael Warmbier on YouTube" width="30px" src="icons/youtube.png"/>][youtube]
+[<img align="left" alt="Michael Warmbier on Twitter" width="30px" src="icons/twitter.png"/>][twitter]
 [<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/repl.png"/>][myRepl]
 
 </br>
