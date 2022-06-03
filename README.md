@@ -1,4 +1,4 @@
-## I'm Michael
+## Michael Warmbier
 
 ### A Computer Science and Mathematics B.S. Candidate
 
