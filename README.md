@@ -4,9 +4,8 @@
 
 ✔️ Actively working on a variety of projects </br>
 ✔️ Studyin web-dev, software engineering and game design concepts </br>
-✔️ Interested in collaborating with other programmer and contact creators </br>
-✔️ Available for commissions </br>
-✔️ ACtively searching for new experiences and opportunities </br>
+✔️ Interested in collaborating with other programmer and content creators </br>
+✔️ Actively searching for new experiences and opportunities </br>
 
 ### Connect with me:
 
