@@ -34,7 +34,8 @@
 [<img align="left" alt="Node" width="30px" src="icons/node.png"/>][node]
 [<img align="left" alt="Visual Studio" width="30px" src="icons/visual-studio.png"/>][visualstudio]
 [<img align="left" alt="Game Maker Studio 2" width="30px" src="icons/gamemaker.png"/>][gamemaker]
-
+[<img align="left" alt="Markdown" width="30px" src="icons/Markdown.png"/>][markdown]
+[<img align="left" alt="Codepen" width="30px" src="icons/Codepen.png"/>][codepen]
 </br>
 
 ---
@@ -53,5 +54,7 @@
 [node]: https://nodejs.org/en/
 [visualstudio]: https://code.visualstudio.com/
 [gamemaker]: https://www.yoyogames.com/en/gamemaker
+[markdown]: https://www.markdownguide.org/
+[codepen]: https://codepen.io/
 
 
