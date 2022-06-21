@@ -2,10 +2,7 @@
 
 ### A Computer Science and Mathematics B.S. Candidate
 
-✔️ Actively working on a variety of projects </br>
-✔️ Studyin web-dev, software engineering and game design concepts </br>
-✔️ Interested in collaborating with other programmer and content creators </br>
-✔️ Actively searching for new experiences and opportunities </br>
+Create of [SmiteStats](http://Smitebuildmaker.com) and a variety of other Smite applications.
 
 ### Connect with me:
 
