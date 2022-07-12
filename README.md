@@ -2,7 +2,7 @@
 
 ### A Computer Science and Mathematics B.S. Candidate
 
-Creator of [SmiteStats](http://Smitebuildmaker.com) and a variety of other Smite applications.
+Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and a variety of other Smite applications.
 
 ### Connect with me:
 
