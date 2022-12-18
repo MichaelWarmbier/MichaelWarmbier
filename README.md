@@ -2,7 +2,7 @@
 
 ### A Computer Science and Mathematics B.S. Candidate
 
-Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](chanceforrain.info/). Student and hobbyist.
+Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](http://chanceforrain.info/). Student and hobbyist.
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="30px" src="icons/internet.png"/>][website]
