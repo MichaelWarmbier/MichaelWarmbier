@@ -23,18 +23,6 @@ Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and a variety of other 
 
 </br>
 
-### Tools:
-
-[<img align="left" alt="GitHub" width="30px" src="icons/github.png"/>][github]
-[<img align="left" alt="Repl.it" width="30px" src="icons/repl.png"/>][repl]
-[<img align="left" alt="Atom" width="30px" src="icons/atom.png"/>][atom]
-[<img align="left" alt="Node" width="30px" src="icons/node.png"/>][node]
-[<img align="left" alt="Visual Studio" width="30px" src="icons/visual-studio.png"/>][visualstudio]
-[<img align="left" alt="Game Maker Studio 2" width="30px" src="icons/gamemaker.png"/>][gamemaker]
-[<img align="left" alt="Markdown" width="30px" src="icons/Markdown.png"/>][markdown]
-[<img align="left" alt="Codepen" width="30px" src="icons/Codepen.png"/>][codepen]
-</br>
-
 ---
 
 <img align="left" alt="Kirbout's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelWarmbier&show_icons=true&locale=en&layout=compact&theme=react"/>
