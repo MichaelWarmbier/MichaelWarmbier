@@ -11,7 +11,7 @@ Absolutely looking for collaborations!
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="30px" src="icons/internet.png"/>][website]
-[<img align="left" alt="Discord Community" width="30px" src="icons/discord.png"/>][discord]
+[<img align="left" alt="Discord Community" width="30px" src="icons/discord1.png"/>][discord]
 [<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/repl.png"/>][myRepl]
 
 </br>
