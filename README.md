@@ -2,11 +2,16 @@
 
 ### A Computer Science and Mathematics B.S. Candidate
 
-Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](http://chanceforrain.info/). Student and hobbyist.
+I'm the creator of the fan websites [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](http://chanceforrain.info/).
+
+Computer Scientist, Tech-writer, Developer, Designer, Hobbyist, Student.
+
+Absolutely looking for collaborations!
+
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="30px" src="icons/internet.png"/>][website]
-[<img align="left" alt="Michael Warmbier on Twitter" width="30px" src="icons/twitter.png"/>][twitter]
+[<img align="left" alt="Discord Community" width="30px" src="icons/discord.png"/>][discord]
 [<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/repl.png"/>][myRepl]
 
 </br>
@@ -18,7 +23,8 @@ Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](htt
 <img align="left" alt="HTML5" width="30px" src="icons/html.png"/>
 <img align="left" alt="HCSS3" width="30px" src="icons/css.png"/>
 <img align="left" alt="Python" width="30px" src="icons/python.png"/>
-<img align="left" alt="Game Maker Language" width="30px" src="icons/gamemaker.png"/>
+<img align="left" alt="JSON, YAML, XML" width="30px" src="icons/json_yaml_xml.png"/>
+<img align="left" alt="TypeScript" width="30px" src="icons/ts.png"/>
 
 </br>
 
@@ -28,7 +34,7 @@ Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](htt
 <img align="left" alt="Kirbout's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michaelwarmbier&show_icons=true&locale=en&theme=react"/>
 
 [website]: http://michaelwarmbier.com
-[twitter]: https://twitter.com/MichaelWarmbier
+[discord]: https://discord.gg/nEBXeQWzPR
 [youtube]: https://www.youtube.com/channel/UC1HP88o4kwLze82F2KDPoVw
 [myRepl]: https://replit.com/@Kirbout
 
@@ -36,6 +42,7 @@ Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](htt
 [repl]: ttps://replit.com/
 [atom]: https://atom.io/
 [node]: https://nodejs.org/en/
+[ts]: https://www.typescriptlang.org/
 [visualstudio]: https://code.visualstudio.com/
 [gamemaker]: https://www.yoyogames.com/en/gamemaker
 [markdown]: https://www.markdownguide.org/
