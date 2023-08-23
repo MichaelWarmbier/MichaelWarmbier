@@ -2,17 +2,19 @@
 
 ### A Computer Science and Mathematics B.S. Candidate
 
-I'm the creator of the fan websites [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](http://chanceforrain.info/).
+Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](http://chanceforrain.info/) and several other websites and applications!
 
 Computer Scientist, Tech-writer, Developer, Designer, Hobbyist, Student.
 
-Absolutely looking for collaborations!
+Always looking for opportunities to teach, collaborate and learn!
 
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="30px" src="icons/internet.png"/>][website]
 [<img align="left" alt="Discord Community" width="30px" src="icons/discord1.png"/>][discord]
 [<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/repl.png"/>][myRepl]
+[<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/twitter.png"/>][twitter]
+[<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/linkedin.png"/>][linkedin]
 
 </br>
 
@@ -37,6 +39,8 @@ Absolutely looking for collaborations!
 [discord]: https://discord.gg/nEBXeQWzPR
 [youtube]: https://www.youtube.com/channel/UC1HP88o4kwLze82F2KDPoVw
 [myRepl]: https://replit.com/@Kirbout
+[twitter]: https://twitter.com/MichaelWarmbier
+[linkedin]: https://www.linkedin.com/in/michaelwarmbier/
 
 [github]: https://github.com/
 [repl]: ttps://replit.com/
