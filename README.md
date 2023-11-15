@@ -16,17 +16,6 @@ Always looking for opportunities to teach, collaborate and learn!
 [<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/twitter.png"/>][twitter]
 [<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/linkedin.png"/>][linkedin]
 
-</br>
-
-### Languages:
-
-<img align="left" alt="C++ and C languages" width="30px" src="icons/C++.png"/>
-<img align="left" alt="JavaScript" width="30px" src="icons/javascript.png"/>
-<img align="left" alt="HTML5" width="30px" src="icons/html.png"/>
-<img align="left" alt="HCSS3" width="30px" src="icons/css.png"/>
-<img align="left" alt="Python" width="30px" src="icons/python.png"/>
-<img align="left" alt="JSON, YAML, XML" width="30px" src="icons/json_yaml_xml.png"/>
-<img align="left" alt="TypeScript" width="30px" src="icons/ts.png"/>
 
 </br>
 
