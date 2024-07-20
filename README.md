@@ -2,20 +2,12 @@
 
 ### A Computer Science and Mathematics B.S. Candidate
 
-Creator of [SmiteBuildMaker](http://Smitebuildmaker.com) and [ChanceForRain](http://chanceforrain.info/) and several other websites and applications!
+Creator of SmiteBuildMaker, [ChanceForRain](http://chanceforrain.info/) and several other websites and applications!
 
-Computer Scientist, Tech-writer, Developer, Designer, Hobbyist, Student.
+Computer Science student with interest in technical writing and software engineering.
 
-Always looking for opportunities to teach, collaborate and learn!
 
-### Connect with me:
-
-[<img align="left" alt="My Website" width="30px" src="icons/internet.png"/>][website]
-[<img align="left" alt="Discord Community" width="30px" src="icons/discord1.png"/>][discord]
-[<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/repl.png"/>][myRepl]
-[<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/twitter.png"/>][twitter]
-[<img align="left" alt="Kirbout on Repl.it" width="30px" src="icons/linkedin.png"/>][linkedin]
-
+### Connect with me on Discord, my username is Kirbout
 
 </br>
 
