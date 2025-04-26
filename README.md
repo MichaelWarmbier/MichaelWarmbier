@@ -1,1 +1,6 @@
-In the process of migrating!
+### Studying Computer Science & Mathematics
+
+### Contact
+
+@Kirbout on Discord<br>
+michaelcwarmbier@gmail.com
